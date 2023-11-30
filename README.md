@@ -5,6 +5,12 @@
 ---
     python search.py
 
+### 역할
+---
+- updater.py: word_list.json 파일을 최신 버전으로 갱신합니다.
+- word_list.json: 단어 모음 데이터
+- search.py: 검색하는 메인 콘솔
+
 ### 코드/원리 
 ---
 - 밑의 줄은 search.py 코드입니다.
